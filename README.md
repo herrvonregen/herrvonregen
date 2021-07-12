@@ -4,6 +4,8 @@
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/moritz-schauer-227087121/)
+
+[<img align="left" alt="xing" src="https://img.shields.io/badge/xing-test?&style=for-the-badge&logo=xing&logoColor=white&color=026466" />](https://www.xing.com/profile/Moritz_Schauer3/portfolio)
 <!--
 **herrvonregen/herrvonregen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
