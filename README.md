@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a research associate and teacher for special tasks at the Technische Hochschule Mittelhessen, Germany.
+I am a research associate and teacher for special tasks at the University of Applied Sciences Mittelhessen, Germany.
 
 Currently I am working on several ROS related projects.
 
