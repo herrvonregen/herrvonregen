@@ -10,6 +10,7 @@ The detection algorithms build the foundation for a mobile robotics system to co
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/moritz-schauer-227087121/)
 
+[<img align="left" alt="google-scholar" src="https://img.shields.io/badge/Google_Schoolar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=ffffff" />](https://scholar.google.com/citations?user=3T9QG4IAAAAJ&hl=de)
 
 <br>
 
